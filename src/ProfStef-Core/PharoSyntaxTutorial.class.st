@@ -399,7 +399,7 @@ lesson:
 
 2 * 10 + 2.
 
-"Here the message * is sent to 2, which answers 20, then 20 receive the message +
+"Here the message * is sent to 2, which answers 20, then 20 receives the message +
 
 Remember that all messages always follow a simple left-to-right precedence rule, * without exceptions *."
 
